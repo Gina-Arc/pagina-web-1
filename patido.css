@@ -1,0 +1,13 @@
+h1{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+    color: red;
+
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshWnv5xiYiDUM_CC_EilqWaxvdj9DceT2pg&s);
+}
+img {
+    width: 300px;
+}
